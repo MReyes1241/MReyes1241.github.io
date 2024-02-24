@@ -1,5 +1,3 @@
-Certainly! Below is a basic template for a README file for your personal website code. Feel free to customize it based on the specifics of your project.
-
 ---
 
 # Manuel Reyes Jr's Personal Website
